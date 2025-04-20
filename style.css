@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #EBDCB2;
+}
+#lifestyle {
+  background-color: #EBDCB2;
+}
+section {
+  padding-top: 5rem;
+}
